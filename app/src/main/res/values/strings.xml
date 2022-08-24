@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OREO</string>
+    <string name="api_key">98c4e102e6bd059175868a4e744db050</string>
+    <string name="tab_title1">NOW SHOWING</string>
+    <string name="tab_title2">UPCOMING MOVIES</string>
+    <string name="tab_title3">WATCH LIST</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="genre">Genre: </string>
+    <string name="popularity">Popularity: </string>
+    <string name="movie_image">image of the movie</string>
+    <string name="overview">OVERVIEW</string>
+    <string name="add_to_watch_list">ADD TO WATCH LIST</string>
+    <string name="Logout">Logout</string>
+    <string name="TextViewString2">Please Click on the above SIGN IN Button</string>
+</resources>
+
+    <!--    3c2043fd896f396e7e16603f06631843-->
